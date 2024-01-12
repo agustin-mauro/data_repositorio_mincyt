@@ -43,7 +43,7 @@ Se implementa manejo de errores para tratar errores de decodificación JSON u ot
 
 ### Reconocimientos:
 Estos scripts fueron desarrollados por Agustín Mauro.
-Agradecimientos especiales al MINCyT por proporcionar la API para la recuperación de datos.
+Se agradece al MINCyT por proporcionar la API para la recuperación de datos.
 
 
 
@@ -97,4 +97,4 @@ Error handling is implemented to deal with JSON decoding errors or any other exc
 
 ### Acknowledgments:
 These scripts were developed by Agustin Mauro.
-Special thanks to the MINCyT for providing the API for data retrieval.
+Thanks to the MINCyT for providing the API for data retrieval.
