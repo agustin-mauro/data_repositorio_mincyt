@@ -3,7 +3,7 @@
 """
 Created on Sun Jun 19 03:01:02 2022
 
-@author: madam
+@author: Agustin Mauro
 """
 
 import csv

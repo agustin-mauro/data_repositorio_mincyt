@@ -3,7 +3,7 @@
 """
 Created on Wed Jan 10 17:35:35 2024
 
-@author: madam
+@author: Agustin Mauro
 """
 
 import urllib.request
